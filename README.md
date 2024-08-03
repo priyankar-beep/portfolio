@@ -12,12 +12,6 @@
 - Developed a model focused on enhancing usage of language models for smart-home assistance application
 - Implemented innovative approaches to improve the efficiency and intelligence of language models
 
-**Senior Product Engineer @ Vijna Lab Pvt. Ltd. (_January 2023 - August 2023_)**
-- Developed and deployed classification models using NVIDIA-TAO Framework
-- Build a software tool using opencv-python for object segmentation
-- Worked on object segmentation model
-
-
 ## Talks & Lectures
 - resented a talk entitled “Device‑free Surveillance using Non‑imaging Sensors in a Sparsely Populated Outdoor Environment” at IEEE APSCON 2023
 - Presented a talk entitled “Intruder Detection, Localization, and Activity Recognition using Device‑free Sensors in Agricultural Scenarios–A session on Precision Agriculture” at India‑Dalhousie Student Research Sym‑
